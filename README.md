@@ -21,26 +21,6 @@
 
 ---
 
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/farhan-tariq-a829b4223" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=farhan-4201&theme=algolia" alt="GitHub Trophies"/>
-  </a>
-</p>
-
----
-
 ### 🛠️ Languages & Tools
 
 <p align="left">
@@ -66,8 +46,6 @@
 
 ---
 
-
----
 
 ### 📊 GitHub Stats
 
