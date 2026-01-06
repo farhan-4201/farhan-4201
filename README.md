@@ -13,7 +13,6 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on an advanced AI project: [Smart Medical AI Diagnosis](https://github.com/farhan-4201/smart-medical-diagnosis.git)  
 - 🌱 Currently diving deeper into **Next.js** and **Generative AI**  
 - 🤝 Looking to collaborate on **AI-integrated Frontend Projects**  
 - 💬 Ask me about **React**, **Next.js**, or **ML frameworks**  
